@@ -28,21 +28,8 @@ Hasil yang diperoleh setelah mengerjakan panduan dokumentasi BAB 2, adalah sebag
     Python mengetahui sejumlah tipe data majemuk, yang digunakan untuk mengelompokkan nilai-nilai lainnya. Yang paling serbaguna adalah daftar, yang dapat ditulis sebagai daftar nilai yang dipisahkan koma (item) antara tanda kurung siku. Daftar mungkin berisi item dari berbagai jenis, tetapi biasanya semua item memiliki tipe yang sama.
     
 * Langkah pertama menuju pemrograman
-  Of course, we can use Python for more complicated tasks than adding two and two together. For instance, we can write an initial sub-sequence of the Fibonacci series as follows:
-  >>>  Fibonacci series:
-... the sum of two elements defines the next
-... a, b = 0, 1
->>> while a < 10:
-...     print(a)
-...     a, b = b, a+b
-...
-0
-1
-1
-2
-3
-5
-8
+  
+
 
 ## BAB 4
 
