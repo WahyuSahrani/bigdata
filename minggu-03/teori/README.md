@@ -36,9 +36,8 @@
 * Set
   Satu set adalah koleksi berurutan tanpa elemen duplikat. Penggunaan dasar termasuk pengujian keanggortanan dan menghilangkan entri duplikat.  ketika saya mengetikan basket = 'apple', 'orange', 'apple', 'pear', 'orange', 'banana'} enter kemudian ketikan print(basket) maka data yang duplikat akan hilang.
 
-* Kamus
-
 * Teknik Looping
+  enumerate() digunakan untuk mengulang melalui urutan, indek posisi dan nilai yang terkait dapat diambil pada saat yang sama. untuk mengulang lebih dari dua atau lebih urutan pada saat yang sama, entri dapat dipasangkan dengan zip(). Untuk mengulang urutan secara terbalik, pertama-tama tentukan urutan dalam arah maju dan kemudian panggil reversed() fungsi trsebut. gunakan sorted()fungsi yang mengembalikan daftar yang diurutkan baru saat meninggalkan sumber tidak berubah.
 
 
   
