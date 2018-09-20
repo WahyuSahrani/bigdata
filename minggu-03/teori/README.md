@@ -23,7 +23,26 @@
   * pop digunakan untuk mengambil item dari bagian atas tumpukan. pop merupakan kebalikan dari append.  ketika saya mengetikan stack.pop() maka item terakhir dari daftar akan terhapus.
   
 * Menggunakan daftar sebagai antrian
-  untuk mengimplementasikan antrian, gunakan collections.deque yang dirancang agar memiliki penambahan cepat dan muncul dari kedua ujungnya. seperti yang sudah saya praktikan, membuat antrian yang berisi 3 item yaitu Eric, Jhon, dan Michael. kemudian menambahkan 2 item dengan nama Terry dan Graham dengan perintah append. kemudian implementasikan perintah popleft untuk menambahkan ke daftar. maka item pertama dan kedua akan hilang dan akan ditambahkan 2 item baru yaitu Terry dan Graham.
+  * untuk mengimplementasikan antrian, gunakan collections.deque yang dirancang agar memiliki penambahan cepat dan muncul dari kedua ujungnya. seperti yang sudah saya praktikan, membuat antrian yang berisi 3 item yaitu Eric, Jhon, dan Michael. kemudian menambahkan 2 item dengan nama Terry dan Graham dengan perintah append. kemudian implementasikan perintah popleft untuk menambahkan ke daftar. maka item pertama dan kedua akan hilang dan akan ditambahkan 2 item baru yaitu Terry dan Graham.
+    
+* Daftar Bersarang
+
+* Pernyataan del
+  * pernyataan del dapat digunakan untuk menghapus irisan dari daftar atau menghapus seluruh daftar. ketika saya menambahkan variabel a yang berisi beberapa item, a = [-1, 1, 66.25, 333, 333, 1234.5] ketika saya mengetikan perintah de a[0] maka item pertama di dalam daftar akan hilang. jika ingin menghapus seluruh item dengan mengetikan perintah del a.
+  
+* Tuples dan urutan
+  tuples sering digunakan dalam situasi yang berbeda dan untuk tujuan yang berbeda. Tuples tidak dapt diubah, dan biasanya mengandung urutan elemen heterogen yang diakses melalui pembongkaran
+
+* Set
+  Satu set adalah koleksi berurutan tanpa elemen duplikat. Penggunaan dasar termasuk pengujian keanggortanan dan menghilangkan entri duplikat.  ketika saya mengetikan basket = 'apple', 'orange', 'apple', 'pear', 'orange', 'banana'} enter kemudian ketikan print(basket) maka data yang duplikat akan hilang.
+
+* Kamus
+
+* Teknik Looping
+
+
+  
+ 
   
   
 
