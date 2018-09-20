@@ -23,6 +23,9 @@
   * pop digunakan untuk mengambil item dari bagian atas tumpukan. pop merupakan kebalikan dari append.  ketika saya mengetikan stack.pop() maka item terakhir dari daftar akan terhapus.
   
 * Menggunakan daftar sebagai antrian
+  untuk mengimplementasikan antrian, gunakan collections.deque yang dirancang agar memiliki penambahan cepat dan muncul dari kedua ujungnya. seperti yang sudah saya praktikan, membuat antrian yang berisi 3 item yaitu Eric, Jhon, dan Michael. kemudian menambahkan 2 item dengan nama Terry dan Graham dengan perintah append. kemudian implementasikan perintah popleft untuk menambahkan ke daftar. maka item pertama dan kedua akan hilang dan akan ditambahkan 2 item baru yaitu Terry dan Graham.
+  
+  
 
    
  
