@@ -19,3 +19,6 @@
 * Paket
   Paket adalah cara menyusun ruang nama modul Python dengan menggunakan "nama modul bertitik"
   
+## BAB 7 Input dan Output
+* Format String Literal -> string literal terformat memungkinkan untuk menyertakan nilai ekspresi Python di dalam string dengan mengawali string dengan f atau F menulis ekspresi sebagai {expression}
+* Format String() Metod -> penggunaan dasar dari str.format(). Contoh: print('{0} and {1}'.format('spam', 'eggs')). jika argumen kata kunci digunakan dalam str.format() metode, nilainya akan dirujuk dengan menggunakan nama argumen.
