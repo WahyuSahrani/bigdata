@@ -5,17 +5,17 @@
 * Masukan interpreter Python dan impor modul ini dengan printah import fibo
 
 * Lebih lanjut tentang Modul
-  ** Modul dapat berisi pernyataan yang dapat dieksekusi serta definisi fungsi. Pernyataan-pernyataan ini dimaksudkan untuk menginisialisasi modul. Mereka dieksekusi hanya saat pertama kali nama modul ditemukan dalam pernyataan impor.
+  Modul dapat berisi pernyataan yang dapat dieksekusi serta definisi fungsi. Pernyataan-pernyataan ini dimaksudkan untuk menginisialisasi modul. Mereka dieksekusi hanya saat pertama kali nama modul ditemukan dalam pernyataan impor.
   
 * Melaksanakan modul sebagai skrip
-  ** Menjalankan modul Python dengan python fibo.py <arguments> kode dalam modul akan dieksekusi, sama seperti jika Anda mengimpornya, tetapi dengan __name__set ke "__main__". Itu berarti bahwa dengan menambahkan kode ini di akhir modul Anda:
+  Menjalankan modul Python dengan python fibo.py <arguments> kode dalam modul akan dieksekusi, sama seperti jika Anda mengimpornya, tetapi dengan __name__set ke "__main__". Itu berarti bahwa dengan menambahkan kode ini di akhir modul Anda:
   
  * Modul Standar
-   ** Python dilengkapi dengan pustaka modul standar, yang dijelaskan dalam dokumen terpisah, Referensi Perpustakaan Python ("Referensi Perpustakaan" selanjutnya). 
+   Python dilengkapi dengan pustaka modul standar, yang dijelaskan dalam dokumen terpisah, Referensi Perpustakaan Python ("Referensi Perpustakaan" selanjutnya). 
    
  * fungsi dir()
-   ** Fungsi built-in dir() digunakan untuk mencari tahu nama-nama yang didefinisikan modul. Ini mengembalikan daftar string yang diurutkan. Tanpa argumen dir() cantumkan nama yang telah anda tentukan saat ini. dir() tidak mencantumkan nama fungsi dan variable bawaan. jika menginginkan daftar itu, definisikan dalam modul standar builtins:
+   Fungsi built-in dir() digunakan untuk mencari tahu nama-nama yang didefinisikan modul. Ini mengembalikan daftar string yang diurutkan. Tanpa argumen dir() cantumkan nama yang telah anda tentukan saat ini. dir() tidak mencantumkan nama fungsi dan variable bawaan. jika menginginkan daftar itu, definisikan dalam modul standar builtins:
    
 * Paket
-  ** Paket adalah cara menyusun ruang nama modul Python dengan menggunakan "nama modul bertitik"
+  Paket adalah cara menyusun ruang nama modul Python dengan menggunakan "nama modul bertitik"
   
