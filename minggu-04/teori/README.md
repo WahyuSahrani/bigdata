@@ -21,4 +21,7 @@
   
 ## BAB 7 Input dan Output
 * Format String Literal -> string literal terformat memungkinkan untuk menyertakan nilai ekspresi Python di dalam string dengan mengawali string dengan f atau F menulis ekspresi sebagai {expression}
-* Format String() Metod -> penggunaan dasar dari str.format(). Contoh: print('{0} and {1}'.format('spam', 'eggs')). jika argumen kata kunci digunakan dalam str.format() metode, nilainya akan dirujuk dengan menggunakan nama argumen.
+* Format String() Metod -> penggunaan dasar dari str.format(). Contoh: print('{0} and {1}'.format('spam', 'eggs')). jika argumen kata kunci digunakan dalam str.format() metode, nilainya akan dirujuk dengan menggunakan nama argumen. Ini juga bisa dilakukan dengan melewatkan table sebagai argumen utama kunci dengan notasi.
+* Pemformatan String lama -> operator % juga dapat digunakan untuk string format.
+* Membaca dan menulis file -> open()mengembalikan file objek , dan ini paling sering digunakan dengan dua argumen: .open(filename, mode) f = open('workfile', 'w') Penjelasannya:
+  Argumen pertama adalah string yang berisi nama file. Argumen kedua adalah string lain yang berisi karakter yang menjelaskan 
