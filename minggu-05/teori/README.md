@@ -14,6 +14,15 @@
   ** modul random digunakan untuk membuat pilihan acak 
   ** modul statistik digunakan untuk menghitung sifat dasar statistik (mean, median, varian dll)
  
-* Akses Internet -> 
+* Akses Internet -> Dua modul untuk mengakses internet adalah urllib.request untk mengambil data dari URL dan smtplib untuk mengirim email:
 
+* Tanggal dan Waktu -> modul datetime digunakan untuk memanipulasi tanggal dan waktu dengan cara sedehana dan kompleks.
+
+* Kompresi Data -> pengarsipan data umum dan kompresi secara langsung  didukun oleh modul termasuk : zlib, gzip, bz2, lzma, zipfile da tarfile.
+
+* Pengukuran kinerja -> 
+
+* Kontrol Kualitas ->
+
+* 
 
