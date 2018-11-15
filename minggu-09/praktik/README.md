@@ -16,4 +16,6 @@
     * Nama kelas yang memenuhi syarat dari objek untuk kolom variabel adalah pandas.core.indexes.base.Index. Ini dimulai dengan       nama paket, yang diikuti oleh jalur modul dan diakhiri dengan nama mengetik. Cara umum untuk merujuk objek adalah               memasukkan nama paket diikuti dengan nama jenis objek. Dalam contoh ini, kami akan mengacu kolom sebagai objek Indeks           panda.
      
 3. Memahami tipe data
+   * Tabel berikut berisi semua tipe data pandas, dengan ekuivalen string, dan beberapa catatan pada setiap jenis:    
+   
    
