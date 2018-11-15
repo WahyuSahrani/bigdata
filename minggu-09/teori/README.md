@@ -8,8 +8,8 @@
 * Bagaimana cara instalasi jupyter?
   * Pastikan telah menginstal miniconda / anaconda.
   * Gunakan perintah dibawah ini untuk menginstal jupyter:
-    '''bash
+    "'bash
     sudo apt install jupyter-core
-    '''
+    "'
 * Bagaimana cara menggunakan Jupyter untuk interactive computing di Python?
 
