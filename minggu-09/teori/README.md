@@ -7,9 +7,13 @@
   
 * Bagaimana cara instalasi jupyter?
   * Pastikan telah menginstal miniconda / anaconda.
-  * Gunakan perintah dibawah ini untuk menginstal jupyter:
-    "'bash
-    sudo apt install jupyter-core
-    "'
+  * Gunakan perintah dibawah ini untuk menginstal jupyter: apt install jupyter-core
+  * Jalankan untuk pengecekan jupyter dengan perintah jupyter notebook.
+  * Jika terjadi  error executing jupyter command notebook cobalah upgrade pip dengan  perintah: pip install jupyter
+  * kembali ke langkah no 3 untuk pengecekan jupyter
+   
 * Bagaimana cara menggunakan Jupyter untuk interactive computing di Python?
+  * ketikan perintah jupyter notebook untuk menjalankan jupyter 
+  * Jupyter akan berjalan pada localhost browser untuk membuka notebook baru untuk menjalankan kode python
+  * Pada notebook ini kita dapat menuliskan kode python yang diinginkan
 
