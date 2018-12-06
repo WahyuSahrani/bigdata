@@ -17,7 +17,7 @@
 7. .isin -> sebuah method untuk mengetes satu dari banyak nilai
 8. .value.counts -> method yang tepat untuk mengambil ekstrak string nama dan nomor dari value
 9. pet.change -> membuat seris dari hanya menyeleksi beberapa potongan 
-10.clip -> method yang dapat mengatur sebuah data diwaktu yang sama mask menampilkan data sesuai dengan value
-11.assert_trance_equcl -> mengecek equality  dari series dan dataframe tanpa mengecek lagi 
-12.dtype -> untuk mengecek tipe data
+10. clip -> method yang dapat mengatur sebuah data diwaktu yang sama mask menampilkan data sesuai dengan value
+11. assert_trance_equcl -> mengecek equality  dari series dan dataframe tanpa mengecek lagi 
+12. dtype -> untuk mengecek tipe data
 
